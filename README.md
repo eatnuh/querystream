@@ -114,7 +114,7 @@ public class Main {
     public static void main(String[] args) {
 
         ask(A).and(B).reAsk(C);             // initialize C
-        ask(A).and(B).reAskNot(C).and(B);      // initialize Not C and B
+        ask(A).and(B).reAskNot(C).and(B);   // initialize Not C and B
     }
 }
 ```
