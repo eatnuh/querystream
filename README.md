@@ -38,7 +38,7 @@ dependencies {
 
 ### 3.1. Create query
 
-Creating a query starts by calling the static method ask or askNot.
+> Creating a query starts by calling the static method ask or askNot.
 
 ```java
 import static querystream.QueryStream.*;
@@ -61,8 +61,6 @@ public class Main {
 ```
 
 ### 3.2. Return query result
-
-Creating a query starts by calling the static method ask or askNot.
 
 ```java
 import static querystream.QueryStream.*;
