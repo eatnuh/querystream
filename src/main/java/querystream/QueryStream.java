@@ -148,14 +148,14 @@ public class QueryStream {
      * @return cur is true
      */
     public boolean isTrue() {
-        return cur == true;
+        return cur;
     }
 
     /**
      * @return cur is false
      */
     public boolean isFalse() {
-        return cur == false;
+        return !cur;
     }
 
     /**
