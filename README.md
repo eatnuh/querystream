@@ -138,7 +138,7 @@ public class Main {
 }
 ```
 
-### 3.6. Throws according to the query
+### 3.6. Throws exception according to the query
 
 ```java
 import static querystream.QueryStream.*;
